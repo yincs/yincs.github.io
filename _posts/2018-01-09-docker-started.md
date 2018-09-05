@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "在win10上搭建docker环境"
+title: "docker在win10上搭建环境"
 date: 2018-09-05 14:02:08 
 description: "docker在win10上的下载安装、国内镜像设置、基本使用"
 tag: docker
@@ -51,4 +51,4 @@ docker-hello-world，可以参考[菜鸟教程](http://www.runoob.com/docker/doc
 
 <br>
 
-转载请注明：[小嵩的博客](http://baixin) » [点击阅读原文](http://baixin.io/2015/09/iOS9_Note/)
+转载请注明：[小嵩的博客](http://changs.top) » [点击阅读原文](http://changs.top/2018/09/docker-started/)
