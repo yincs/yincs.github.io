@@ -16,6 +16,7 @@ tag: docker vue
 ### 编写Dockerfile文件
  1. 不多说，创建Dockerfile文件
  2. 编写Dockerfile的内容
+ 
 ```
 #指定node的镜像源
 FROM node:slim
