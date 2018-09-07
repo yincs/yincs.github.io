@@ -24,6 +24,8 @@ tag: docker
 
 ### 初步使用
 
+docker国内镜像：https://registry.docker-cn.com
+
 docker-hello-world，可以参考[菜鸟教程](http://www.runoob.com/docker/docker-hello-world.html)上的相关例子，很不错的教程。
 
 ### 常用命令
