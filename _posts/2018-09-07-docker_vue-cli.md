@@ -3,7 +3,9 @@ layout: post
 title: "用docker搭建vue-cli开发环境"
 date: 2018-09-07 17:20:00 
 description: "编写docker Dockerfile搭建vue-cli的docker镜像"
-tag: docker vue
+tag:  
+    - docker
+    - vue
 ---
      
 
