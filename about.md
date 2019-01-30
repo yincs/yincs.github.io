@@ -6,19 +6,21 @@ title: 关于我
 # 联系方式
 - Email：cherics@163.com 
 
+
 ---
 
 # 个人信息
 
- - 殷长松/男/1992 
- - 本科/青海民族大学电子信息科学与技术系 
- - 工作年限：4年
- - 技术博客：https://blog.csdn.net/changs_roid 
- - GitHub：https://github.com/yincs 
- - Gitee：https://gitee.com/cherish418 
+ - 殷长松/男/1992   
+ - 本科/青海民族大学电子信息科学与技术系   
+ - 工作年限：4年  
+ - 技术博客：https://blog.csdn.net/changs_roid   
+ - GitHub：https://github.com/yincs  
+ - Gitee：https://gitee.com/cherish418   
+ - 期望职位：JAVA高级程序员，应用架构师  
+ - 期望城市：深圳  
 
- - 期望职位：JAVA高级程序员，应用架构师
- - 期望城市：深圳
+ 
 ---
 
 # 工作经历
